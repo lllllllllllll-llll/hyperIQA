@@ -1,5 +1,5 @@
 # hyperIQA
-Pytorch version of the CVPR 2020 paper: [Blindly Assess Image Quality in the Wild Guided by A Self-Adaptive Hyper Network](https://openaccess.thecvf.com/content_CVPR_2020/html/Su_Blindly_Assess_Image_Quality_in_the_Wild_Guided_by_a_CVPR_2020_paper.html)
+Pytorch version of the CVPR 2020 paper: "[Blindly Assess Image Quality in the Wild Guided by A Self-Adaptive Hyper Network](https://openaccess.thecvf.com/content_CVPR_2020/html/Su_Blindly_Assess_Image_Quality_in_the_Wild_Guided_by_a_CVPR_2020_paper.html)"
 
 # Note
 1. Since the author of this paper has not yet released the code to the [GitHub](https://github.com/SSL92/hyperIQA)(the code is still empty there). I implemented the network according to my understanding. As the details of the network are not precise, I have made some changes in the network.
