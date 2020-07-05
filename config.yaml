@@ -1,0 +1,12 @@
+LIVEC:
+  dataroot: D:/0datasets/LIVEC/
+
+LIVE:
+  im_dir: D:/0datasets/LIVE/
+  datainfo: ./data/LIVEfullinfo.mat
+
+train_ratio: 0.8
+test_ratio: 0.2
+
+patch_size: 224
+stride: 80
